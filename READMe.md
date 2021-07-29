@@ -61,7 +61,7 @@ npm test
 The test for posts will fail ( as expected ) if the database has not been correctly setup.
 
 # Creating a Jenkins pipeline
-![https://github.com/rurbonas/eng89_jenkins/blob/main](Diagram2.png)
+![https://github.com/rurbonas/eng89_jenkins/blob/main/Diagram2.png](Diagram2.png)
 - Click New item
 - Enter a valid name
 - select a template, we have been using freestyle
