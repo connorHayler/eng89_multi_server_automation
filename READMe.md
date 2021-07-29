@@ -60,6 +60,12 @@ npm test
 
 The test for posts will fail ( as expected ) if the database has not been correctly setup.
 
-
+#Creating a Jenkins pipeline
+- Click New item
+- Enter a valid name
+- select a template, we have been using freestyle
+- Select max number of builds to keep to be 3
+- Set build step, we have been using the shell
+- For adding a pipeline add a build trigger ```Build after other projects are built``` and then select your other job
 
 
